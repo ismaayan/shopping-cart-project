@@ -62,7 +62,7 @@ Contributions are welcome! Please open an issue or submit a pull request for any
 2. **Clone your fork**: Clone your forked repository to your local machine.
    
    ```bash
-   git clone https://github.com/your-username/repository-name.git
+   git clone https://github.com/ismaayan/shopping-cart-project.git
 
 
 ## 📄 License
