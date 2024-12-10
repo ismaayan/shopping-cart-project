@@ -38,9 +38,12 @@ cd shopping-cart-project
 ```
 Open index.html in your browser to start the application.
 
-🛠️ Technologies Used
+
+## 🛠️ Technologies Used
 **HTML:** Structuring the webpage.
+
 **CSS:** Styling the layout and components.
+
 **JavaScript:** Adding interactivity and managing the cart functionality.
 
 ## 📚 Key Functions 
