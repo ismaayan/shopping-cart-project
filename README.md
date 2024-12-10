@@ -20,7 +20,8 @@ A dynamic shopping cart application built with HTML, CSS, and JavaScript. This p
 .
 ├── index.html          # Main entry point for the app
 ├── style.css           # Styling for the application
-├── script.js           # Core logic for the shopping cart
+├── main.js             # Core logic for the shopping cart homepage
+├── cart.js             # Core logic for the cart page
 ├── images/             # Product images
 └── README.md           # Project documentation
 
